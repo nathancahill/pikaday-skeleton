@@ -1,5 +1,5 @@
 # Pikaday Skeleton
-A refreshing JavaScript Datepicker, styled to work with Skeleton. [Demo](http://nathancahill.github.io/pikaday-skeleton/)
+[The refreshing JavaScript Datepicker](https://github.com/dbushell/Pikaday), styled to work with [Skeleton](https://github.com/dhg/Skeleton). [Demo](http://nathancahill.github.io/pikaday-skeleton/)
 
 Before and after:
 
